@@ -18,6 +18,5 @@ describe('User Registration on Booking.com', () => {
         createPasswordPage.enterConfirmPassword(testData.user.password)
         createPasswordPage.clickOnCreateAccountButton()
         createPasswordPage.verifyCaptchaIsPresent()
-        assert.fail(true)
     })
 })

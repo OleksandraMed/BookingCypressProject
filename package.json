@@ -7,7 +7,7 @@
     "posttest": "npm run merge-reports && npm run generate-htmlreport",
     "test": "npm run cypress-test || npm run posttest",
     "cypress-test":"cypress run --browser chrome",
-    "merge-reports": "mochawesome-merge cypress/reports/*.json > cypress/reports/output.json",
+    "merge-reports": "npx mochawesome-merge cypress/reports/mochawesome-report/*.json > cypress/reports/output.json",
     "generate-htmlreport": "marge cypress/reports/output.json --reportDir ./ --inline"
   },
   "keywords": [],
