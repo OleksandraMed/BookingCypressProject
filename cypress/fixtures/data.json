@@ -1,0 +1,10 @@
+{
+    "user": {
+      "email": "testBookingRegistrationUser@gmail.com",
+      "password": "Test123456.com2026*"
+    },
+    "urls": {
+      "registration": "https://account.booking.com/register",
+      "home": "https://booking.com/"
+    }
+  }
