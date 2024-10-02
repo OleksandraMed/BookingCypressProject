@@ -2,14 +2,6 @@
 
 This project automates the user registration functionality on Booking.com using Cypress. It tests the registration process up to the CAPTCHA step and integrates Mochawesome for detailed test reporting.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Running Tests](#running-tests)
-- [Project Structure](#project-structure)
-- [Test Case](#test-case)
-- [Features](#features)
-
 ## Installation
 
 Follow these steps to install and run the project locally:
