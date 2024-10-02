@@ -9,8 +9,6 @@ This project automates the user registration functionality on Booking.com using 
 - [Project Structure](#project-structure)
 - [Test Case](#test-case)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
